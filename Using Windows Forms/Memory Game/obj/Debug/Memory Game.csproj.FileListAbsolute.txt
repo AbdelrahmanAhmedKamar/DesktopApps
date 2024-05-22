@@ -1,0 +1,10 @@
+D:\Windows Forms\Memory Game\bin\Debug\Memory Game.exe.config
+D:\Windows Forms\Memory Game\bin\Debug\Memory Game.exe
+D:\Windows Forms\Memory Game\bin\Debug\Memory Game.pdb
+D:\Windows Forms\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+D:\Windows Forms\Memory Game\obj\Debug\Memory_Game.Form1.resources
+D:\Windows Forms\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+D:\Windows Forms\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+D:\Windows Forms\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+D:\Windows Forms\Memory Game\obj\Debug\Memory Game.exe
+D:\Windows Forms\Memory Game\obj\Debug\Memory Game.pdb
