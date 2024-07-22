@@ -1,0 +1,26 @@
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Employee’s Registration.exe.config
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Employee’s Registration.exe
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Employee’s Registration.pdb
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee’s Registration.csproj.AssemblyReference.cache
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee_s_Registration.Form1.resources
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee_s_Registration.Properties.Resources.resources
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee’s Registration.csproj.GenerateResource.cache
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee’s Registration.csproj.CoreCompileInputs.cache
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee’s Registration.exe
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee’s Registration.pdb
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\kamer\source\repos\Employee’s Registration\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kamer\source\repos\Employee’s Registration\obj\Debug\Employee.6004A9C5.Up2Date
+D:\Windows Forms\My Projects\Employee’s Registration\bin\Debug\Employee’s Registration.exe.config
+D:\Windows Forms\My Projects\Employee’s Registration\bin\Debug\Employee’s Registration.exe
+D:\Windows Forms\My Projects\Employee’s Registration\bin\Debug\Employee’s Registration.pdb
+D:\Windows Forms\My Projects\Employee’s Registration\obj\Debug\Employee’s Registration.csproj.AssemblyReference.cache
+D:\Windows Forms\My Projects\Employee’s Registration\obj\Debug\Employee_s_Registration.Form1.resources
+D:\Windows Forms\My Projects\Employee’s Registration\obj\Debug\Employee_s_Registration.Properties.Resources.resources
+D:\Windows Forms\My Projects\Employee’s Registration\obj\Debug\Employee’s Registration.csproj.GenerateResource.cache
+D:\Windows Forms\My Projects\Employee’s Registration\obj\Debug\Employee’s Registration.csproj.CoreCompileInputs.cache
+D:\Windows Forms\My Projects\Employee’s Registration\obj\Debug\Employee’s Registration.exe
+D:\Windows Forms\My Projects\Employee’s Registration\obj\Debug\Employee’s Registration.pdb
