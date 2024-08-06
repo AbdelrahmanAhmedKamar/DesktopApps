@@ -1,0 +1,10 @@
+C:\Users\zahran it\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\zahran it\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\zahran it\source\repos\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\zahran it\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\zahran it\source\repos\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\zahran it\source\repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\zahran it\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\zahran it\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\zahran it\source\repos\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\zahran it\source\repos\NotePad\NotePad\obj\Debug\NotePad.pdb
