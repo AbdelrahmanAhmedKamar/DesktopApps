@@ -1,0 +1,11 @@
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.loginForm.resources
+C:\Users\zahran it\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.frmDashboard.resources
