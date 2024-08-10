@@ -1,0 +1,10 @@
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\bin\Debug\CrudUsingXml.exe.config
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\bin\Debug\CrudUsingXml.exe
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\bin\Debug\CrudUsingXml.pdb
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\obj\Debug\CrudUsingXml.csproj.AssemblyReference.cache
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\obj\Debug\CrudUsingXml.Form1.resources
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\obj\Debug\CrudUsingXml.Properties.Resources.resources
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\obj\Debug\CrudUsingXml.csproj.GenerateResource.cache
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\obj\Debug\CrudUsingXml.csproj.CoreCompileInputs.cache
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\obj\Debug\CrudUsingXml.exe
+C:\Users\zahran it\source\repos\CrudUsingXml\CrudUsingXml\obj\Debug\CrudUsingXml.pdb
